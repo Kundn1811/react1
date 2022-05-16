@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+ 
+#list>li:nth-child(1){
+  list-style-type: square;
+}
+#list>li:nth-child(2){
+  list-style-type: square;
+}
+#list>li:nth-child(3){
+  list-style-type: disc;
+}
+#list>li:nth-child(4){
+  list-style-type: circle;
+}
